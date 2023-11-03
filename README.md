@@ -32,3 +32,13 @@
 
 <li> tkinter: Included in the Python standard library for GUI creation.</li>
 <li> pytube: To download YouTube content. You can install it using pip install pytube.</li>
+[pip install -r requirements.txt](pip install -r requirements.txt)
+
+<p>use this to install appv2.py requirements libraires</p>
+
+<h3> What is appv2.py </h3>
+
+<p>
+
+appv2.py comes with a clean ui for the windows. Which is really attractive and modern Look.
+</p>
